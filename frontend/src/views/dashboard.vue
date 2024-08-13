@@ -34,7 +34,7 @@
                         <el-link type="primary" href="https://github.com/lin-xin/vue-manage-system" target="_blank"
                             >vue-manage-system</el-link
                         >
-                        ：vue3 + element-plus 后台管理系统解决方案
+                        ：vue3 + element-plus 机器人管理系统解决方案
                     </div>
                 </el-card>
             </el-col>

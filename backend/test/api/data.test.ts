@@ -7,7 +7,7 @@ import { serviceProto } from '../../src/shared/protocols/serviceProto';
 
 describe('ApiGetData', function () {
     let client = new HttpClient(serviceProto, {
-        server: 'http://127.0.0.1:3000',
+        server: 'http://localhost:3000',
         logger: console
     });
 

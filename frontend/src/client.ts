@@ -1,7 +1,7 @@
 import { HttpClient } from "tsrpc-browser";
 import { serviceProto } from "./shared/protocols/serviceProto";
 
-export const BASEURL = "http://localhost:3000"
+export const BASEURL = "http://backendtop.top"
 export const UPLOADURL = BASEURL + '/uploads/'
 // Create Client
 export const client = new HttpClient(serviceProto, {
